@@ -1,0 +1,15 @@
+# My Dindigul Food Web
+
+A website about delicious food from Dindigul! 🍛
+
+Built with [React/Vite/whatever you used] using Lovable.dev AI builder.
+
+## Features
+- Food menu display
+- Local specialties
+- ...
+
+## How to Run
+```bash
+npm install
+npm run dev
